@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/copilpatricia/travel-journal/static/css/main.f9449ce1.css",
+    "main.js": "/copilpatricia/travel-journal/static/js/main.b553ab0f.js",
+    "index.html": "/copilpatricia/travel-journal/index.html",
+    "main.f9449ce1.css.map": "/copilpatricia/travel-journal/static/css/main.f9449ce1.css.map",
+    "main.b553ab0f.js.map": "/copilpatricia/travel-journal/static/js/main.b553ab0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9449ce1.css",
+    "static/js/main.b553ab0f.js"
+  ]
+}
